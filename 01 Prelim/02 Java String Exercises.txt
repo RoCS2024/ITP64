@@ -1,0 +1,56 @@
+Problem 1
+Create a program that simulates Fistc Come First Serve Disk Scheduling Algotrithm with total head movement calculation.
+
+Problem 2
+Create a program that simulates Shortest Seek Time First Disk Scheduling Algotrithm with total head movement calculation.
+
+Problem 3
+Create a program that simulates SCAN Disk Scheduling Algotrithm with total head movement calculation.
+
+Problem 4
+Create a program that simulates C-SCAN Disk Scheduling Algotrithm with total head movement calculation.
+
+Problem 5
+Create a program that implements the binary search algorithm in an array.
+
+Problem 6
+Write a program that implements the probability search algorithm in an array.
+
+Problem 7
+Write a program that implements the sentinel search algorithm in an array.
+
+Problem 8
+Write a Java program to insert an element (specific position) into an array.
+
+Problem 9
+Design a Java program that merges two arrays removing duplicate entries.
+
+Problem 10
+Write a Java program that counts the number of vowels and consonants in an input string.
+
+Problem 11
+Write a Java program that inputs a string. It will also ask the user to input a character and then prints the input string replacing the occurence of the input character with an asterisk
+
+Sample Output:
+Enter a string: The Notebook
+Enter a character: t
+New String: *he No*ebook
+
+Problem 12
+Write a Java program that counts the number of numerical digits in an input string.
+
+Problem 13
+Write a Java program that counts the number of spaces in an input string as well as their indices.
+
+Problem 14
+Create a program that inputs a string of alphabets. Find out the number of occurrence of all alphabets in that string. Find out the alphabet with maximum occurrence.
+
+Problem 15
+Write a program to check if a given string is a Palindrome.
+
+Problem 16
+Create a program that accepts 5 strings then sort them alphabetically ascending order.
+
+Problem 17
+Write a program to check whether two given strings are anagrams of each other or not. An anagram of a string is another string that contains the same characters, only the order of characters can be different.
+
